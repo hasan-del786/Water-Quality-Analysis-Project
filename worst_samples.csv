@@ -1,0 +1,6 @@
+Sample_ID,Source,n_fail,TDS_ppm,Hardness_ppm,Chloride_ppm,Nitrate_ppm,Fluoride_ppm
+W06,Well,3,676.0,415.0,188.0,36.3,1.01
+H06,Borehole,2,870.0,271.0,80.0,2.8,1.43
+W04,Well,2,527.0,370.0,135.0,51.0,1.05
+W03,Well,1,797.0,290.0,121.0,24.5,0.61
+W05,Well,1,644.0,281.0,202.0,31.6,0.41

@@ -1,0 +1,7 @@
+parameter,n_fail,pct_failing
+pH,2,6.7
+TDS,4,13.3
+Hardness,2,6.7
+Chloride,0,0.0
+Nitrate,2,6.7
+Fluoride,2,6.7

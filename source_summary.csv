@@ -1,0 +1,6 @@
+Source,n_samples,mean_pH,mean_TDS,mean_Hardness,mean_Chloride,mean_Nitrate,mean_Fluoride,n_failing,pct_failing
+Well,6,6.99,621.2,309.8,162.5,38.9,0.94,6,100.0
+Borehole,6,8.07,508.5,243.3,111.2,21.4,1.17,2,33.3
+River,6,7.43,343.7,175.2,66.2,11.7,0.49,0,0.0
+Tap,6,7.32,206.8,121.2,45.7,7.4,0.42,0,0.0
+Bottled,6,7.35,85.7,47.2,8.8,3.4,0.2,0,0.0
